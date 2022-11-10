@@ -1,0 +1,36 @@
+{
+    "cities": [
+        {
+            "country": "Morocco",
+            "city": "Casablanca",
+            "coordinates": {
+                "lat": 33.5950627,
+                "lng": -7.6187768
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Fez",
+            "coordinates": {
+                "lat": 34.0346534,
+                "lng": -5.0161926
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tanger",
+            "coordinates": {
+                "lat": 35.777103,
+                "lng": -5.803792
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Marrakech",
+            "coordinates": {
+                "lat": 31.6258257,
+                "lng": -7.9891608
+            }
+        }
+    ]
+}
