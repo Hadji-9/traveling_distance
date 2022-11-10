@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 httpx = "*"
+typer = "*"
 
 [dev-packages]
 autopep8 = "*"

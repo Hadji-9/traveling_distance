@@ -1,0 +1,37 @@
+{
+    "Casablanca": {
+        "Casablanca": 0,
+        "Fez": 298.4966,
+        "Tanger": 343.9619,
+        "Marrakech": 242.8244,
+        "Sale": 96.5192
+    },
+    "Fez": {
+        "Casablanca": null,
+        "Fez": 0,
+        "Tanger": 403.2797,
+        "Marrakech": 535.3845,
+        "Sale": 199.6217
+    },
+    "Tanger": {
+        "Casablanca": null,
+        "Fez": null,
+        "Tanger": 0,
+        "Marrakech": 579.8818,
+        "Sale": 244.7155
+    },
+    "Marrakech": {
+        "Casablanca": null,
+        "Fez": null,
+        "Tanger": null,
+        "Marrakech": 0,
+        "Sale": 331.2892
+    },
+    "Sale": {
+        "Casablanca": null,
+        "Fez": null,
+        "Tanger": null,
+        "Marrakech": null,
+        "Sale": 0
+    }
+}

@@ -25,3 +25,19 @@ def write_coordinates(coordinates: dict, file_name: str = "coordinates.json") ->
     print("*"*30)
     print(f"COORDINATE ARE SAVED IN FILE : /app/{file_name}")
     print("*"*30)
+
+def write_distance_matrix(distance_matrix: dict, file_name: str = "distance_matrix.json") -> None:
+    with open("./app/" + file_name, "w") as f:
+        coordinates_string = json.dumps(distance_matrix)
+        f.write(coordinates_string)
+    print("*"*30)
+    print(f"DISTANCE MATRIX SAVED IN FILE : /app/{file_name}")
+    print("*"*30)
+
+def read_coordinates(file_name: str = "coordinates.json") -> None:
+    print("*"*30)
+    print(f"COORDINATE ARE SAVED IN FILE : /app/{file_name}")
+    print("*"*30)
+    with open("./app/" + file_name, "r") as f:
+        coordinates = json.load(f)
+    return coordinates.get("cities")
