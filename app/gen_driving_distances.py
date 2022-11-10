@@ -17,7 +17,7 @@ async def get_driving_distance(client: httpx.AsyncClient, city_coordinate_1: dic
     latitude_2 = city_coordinate_2.get("lat")
 
     response = await client.get(BASE_URL_DRIVING_DISTANCE_API.format(
-        longitude_1=longitude_1, latitude_1=latitude_1, longitude_2=longitude_2, latitude_2=latitude_2))
+        longitude_1=longitude_1, latitude_1=latitude_1, longitude_2=longitude_2, latitude_2=latitude_2),timeout=None)
     return float(response.json()["routes"][0]["distance"])/1000
 
 
