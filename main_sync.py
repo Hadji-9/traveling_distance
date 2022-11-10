@@ -39,6 +39,7 @@ def run_driving_distances():
             city_1_name = city_1.get("city")
             distance_matrix[city_1_name] = {}
             for j, city_2 in enumerate(cities):
+                print(j)
                 city_2_name = city_2.get("city")
 
                 if i < j:
