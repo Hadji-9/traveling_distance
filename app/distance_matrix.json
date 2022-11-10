@@ -3,35 +3,1098 @@
         "Casablanca": 0,
         "Fez": 298.4966,
         "Tanger": 343.9619,
-        "Marrakech": 242.8244,
-        "Sale": 96.5192
+        "Marrakech": 242.8244
     },
     "Fez": {
         "Casablanca": null,
         "Fez": 0,
         "Tanger": 403.2797,
-        "Marrakech": 535.3845,
-        "Sale": 199.6217
+        "Marrakech": 535.3845
     },
     "Tanger": {
         "Casablanca": null,
         "Fez": null,
         "Tanger": 0,
-        "Marrakech": 579.8818,
-        "Sale": 244.7155
+        "Marrakech": 579.8818
     },
     "Marrakech": {
         "Casablanca": null,
         "Fez": null,
         "Tanger": null,
-        "Marrakech": 0,
-        "Sale": 331.2892
+        "Marrakech": 0
     },
     "Sale": {
-        "Casablanca": null,
-        "Fez": null,
-        "Tanger": null,
-        "Marrakech": null,
-        "Sale": 0
+        "Sale": 0,
+        "Meknes": 143.80020000000002,
+        "Oujda": 513.5213,
+        "Rabat": 4.548
+    },
+    "Meknes": {
+        "Sale": null,
+        "Meknes": 0,
+        "Oujda": 382.2319,
+        "Rabat": 145.79510000000002
+    },
+    "Rabat": {
+        "Sale": null,
+        "Meknes": null,
+        "Rabat": 0,
+        "Oujda": 514.758
+    },
+    "Oujda": {
+        "Sale": null,
+        "Meknes": null,
+        "Rabat": null,
+        "Oujda": 0
+    },
+    "Kenitra": {
+        "Kenitra": 0,
+        "Tetouan": 248.5496,
+        "Temara": 61.014,
+        "Agadir": 599.1087
+    },
+    "Agadir": {
+        "Kenitra": null,
+        "Agadir": 0,
+        "Tetouan": 845.7689,
+        "Temara": 535.5329
+    },
+    "Tetouan": {
+        "Kenitra": null,
+        "Agadir": null,
+        "Tetouan": 0,
+        "Temara": 308.8726
+    },
+    "Temara": {
+        "Kenitra": null,
+        "Agadir": null,
+        "Tetouan": null,
+        "Temara": 0
+    },
+    "Safi": {
+        "Safi": 0,
+        "Mohammedia": 268.26529999999997,
+        "El Jadida": 148.8631,
+        "Khouribga": 344.0258
+    },
+    "Mohammedia": {
+        "Safi": null,
+        "Mohammedia": 0,
+        "Khouribga": 145.2724,
+        "El Jadida": 127.0951
+    },
+    "Khouribga": {
+        "Safi": null,
+        "Mohammedia": null,
+        "Khouribga": 0,
+        "El Jadida": 203.7346
+    },
+    "El Jadida": {
+        "Safi": null,
+        "Mohammedia": null,
+        "Khouribga": null,
+        "El Jadida": 0
+    },
+    "Beni Mellal": {
+        "Beni Mellal": 0,
+        "Nador": 584.2999,
+        "Ait Melloul": 433.8776,
+        "Dar Bouazza": 234.05120000000002
+    },
+    "Ait Melloul": {
+        "Beni Mellal": null,
+        "Ait Melloul": 0,
+        "Nador": 1059.3385,
+        "Dar Bouazza": 471.9446
+    },
+    "Nador": {
+        "Beni Mellal": null,
+        "Ait Melloul": null,
+        "Nador": 0,
+        "Dar Bouazza": 641.1152
+    },
+    "Dar Bouazza": {
+        "Beni Mellal": null,
+        "Ait Melloul": null,
+        "Nador": null,
+        "Dar Bouazza": 0
+    },
+    "Taza": {
+        "Taza": 0,
+        "Settat": 471.9455,
+        "Khemisset": 230.5996,
+        "Berrchid": 307.86359999999996
+    },
+    "Settat": {
+        "Taza": null,
+        "Settat": 0,
+        "Khemisset": 250.5128,
+        "Berrchid": 159.53539999999998
+    },
+    "Berrchid": {
+        "Taza": null,
+        "Settat": null,
+        "Berrchid": 0,
+        "Khemisset": 87.3216
+    },
+    "Khemisset": {
+        "Taza": null,
+        "Settat": null,
+        "Berrchid": null,
+        "Khemisset": 0
+    },
+    "Inezgane": {
+        "Inezgane": 0,
+        "Guelmim": 189.562,
+        "Larache": 716.7421999999999,
+        "Ksar El-Kebir": 739.4934000000001
+    },
+    "Ksar El-Kebir": {
+        "Inezgane": null,
+        "Ksar El-Kebir": 0,
+        "Guelmim": 924.0809,
+        "Larache": 36.204699999999995
+    },
+    "Larache": {
+        "Inezgane": null,
+        "Ksar El-Kebir": null,
+        "Larache": 0,
+        "Guelmim": 901.8096999999999
+    },
+    "Guelmim": {
+        "Inezgane": null,
+        "Ksar El-Kebir": null,
+        "Larache": null,
+        "Guelmim": 0
+    },
+    "Khenifra": {
+        "Khenifra": 0,
+        "Berkane": 460.056,
+        "Bouskoura": 246.6072,
+        "Taourirt": 371.5724
+    },
+    "Berkane": {
+        "Khenifra": null,
+        "Berkane": 0,
+        "Bouskoura": 622.3755,
+        "Taourirt": 104.0977
+    },
+    "Taourirt": {
+        "Khenifra": null,
+        "Berkane": null,
+        "Taourirt": 0,
+        "Bouskoura": 533.9977
+    },
+    "Bouskoura": {
+        "Khenifra": null,
+        "Berkane": null,
+        "Taourirt": null,
+        "Bouskoura": 0
+    },
+    "Fkih Ben Salah": {
+        "Fkih Ben Salah": 0,
+        "Oued Zem": 45.384800000000006,
+        "Dcheira El Jihadia": 423.778,
+        "El Kelaa des Sraghna": 101.75710000000001
+    },
+    "Dcheira El Jihadia": {
+        "Fkih Ben Salah": null,
+        "Dcheira El Jihadia": 0,
+        "Oued Zem": 529.5105,
+        "El Kelaa des Sraghna": 323.383
+    },
+    "Oued Zem": {
+        "Fkih Ben Salah": null,
+        "Dcheira El Jihadia": null,
+        "Oued Zem": 0,
+        "El Kelaa des Sraghna": 147.039
+    },
+    "El Kelaa des Sraghna": {
+        "Fkih Ben Salah": null,
+        "Dcheira El Jihadia": null,
+        "Oued Zem": null,
+        "El Kelaa des Sraghna": 0
+    },
+    "Sidi Slimane": {
+        "Sidi Slimane": 0,
+        "Errachidia": 391.5,
+        "Oulad Teima": 654.5106999999999,
+        "Guercif": 312.37190000000004
+    },
+    "Errachidia": {
+        "Sidi Slimane": null,
+        "Errachidia": 0,
+        "Oulad Teima": 594.3358000000001,
+        "Guercif": 376.8684
+    },
+    "Guercif": {
+        "Sidi Slimane": null,
+        "Errachidia": null,
+        "Guercif": 0,
+        "Oulad Teima": 925.8723
+    },
+    "Oulad Teima": {
+        "Sidi Slimane": null,
+        "Errachidia": null,
+        "Guercif": null,
+        "Oulad Teima": 0
+    },
+    "Ben Guerir": {
+        "Ben Guerir": 0,
+        "Tiflet": 324.8213,
+        "Taroudant": 315.46070000000003,
+        "Leqliaa": 278.6753
+    },
+    "Tiflet": {
+        "Ben Guerir": null,
+        "Tiflet": 0,
+        "Leqliaa": 346.14529999999996,
+        "Taroudant": 631.8361
+    },
+    "Leqliaa": {
+        "Ben Guerir": null,
+        "Tiflet": null,
+        "Leqliaa": 0,
+        "Taroudant": 569.2665999999999
+    },
+    "Taroudant": {
+        "Ben Guerir": null,
+        "Tiflet": null,
+        "Leqliaa": null,
+        "Taroudant": 0
+    },
+    "Sefrou": {
+        "Sefrou": 0,
+        "Essaouira": 677.8685,
+        "Sidi Kacem": 134.2659,
+        "Fnideq": 484.9959
+    },
+    "Essaouira": {
+        "Sefrou": null,
+        "Essaouira": 0,
+        "Sidi Kacem": 584.7653,
+        "Fnideq": 763.3109000000001
+    },
+    "Fnideq": {
+        "Sefrou": null,
+        "Essaouira": null,
+        "Fnideq": 0,
+        "Sidi Kacem": 275.176
+    },
+    "Sidi Kacem": {
+        "Sefrou": null,
+        "Essaouira": null,
+        "Fnideq": null,
+        "Sidi Kacem": 0
+    },
+    "Tiznit": {
+        "Tiznit": 0,
+        "Ouarzazate": 401.58140000000003,
+        "Souk Elarbaa Du Gharb": 732.7938,
+        "Tan-Tan": 237.48239999999998
+    },
+    "Tan-Tan": {
+        "Tiznit": null,
+        "Tan-Tan": 0,
+        "Ouarzazate": 636.9519,
+        "Souk Elarbaa Du Gharb": 968.1644
+    },
+    "Ouarzazate": {
+        "Tiznit": null,
+        "Tan-Tan": null,
+        "Ouarzazate": 0,
+        "Souk Elarbaa Du Gharb": 627.4756
+    },
+    "Souk Elarbaa Du Gharb": {
+        "Tiznit": null,
+        "Tan-Tan": null,
+        "Ouarzazate": null,
+        "Souk Elarbaa Du Gharb": 0
+    },
+    "Youssoufia": {
+        "Youssoufia": 0,
+        "Lahraouine": 228.7303,
+        "Ain-Harrouda": 242.80939999999998,
+        "Martil": 626.6696999999999
+    },
+    "Lahraouine": {
+        "Youssoufia": null,
+        "Lahraouine": 0,
+        "Ain-Harrouda": 16.9284,
+        "Martil": 403.30129999999997
+    },
+    "Martil": {
+        "Youssoufia": null,
+        "Lahraouine": null,
+        "Martil": 0,
+        "Ain-Harrouda": 385.3386
+    },
+    "Ain-Harrouda": {
+        "Youssoufia": null,
+        "Lahraouine": null,
+        "Martil": null,
+        "Ain-Harrouda": 0
+    },
+    "Souk Sebt": {
+        "Souk Sebt": 0,
+        "Skhirat": 13.5344,
+        "Benslimane": 56.2741,
+        "Ouazzane": 198.16670000000002
+    },
+    "Skhirat": {
+        "Souk Sebt": null,
+        "Skhirat": 0,
+        "Ouazzane": 210.22420000000002,
+        "Benslimane": 43.042300000000004
+    },
+    "Ouazzane": {
+        "Souk Sebt": null,
+        "Skhirat": null,
+        "Ouazzane": 0,
+        "Benslimane": 248.00889999999998
+    },
+    "Benslimane": {
+        "Souk Sebt": null,
+        "Skhirat": null,
+        "Ouazzane": null,
+        "Benslimane": 0
+    },
+    "Al Hoceima": {
+        "Al Hoceima": 0,
+        "Beni Ensar I Ait Nsar": 601.0048,
+        "Sidi Bennour": 718.7701,
+        "M'diq": 249.5494
+    },
+    "Beni Ensar I Ait Nsar": {
+        "Al Hoceima": null,
+        "Beni Ensar I Ait Nsar": 0,
+        "Sidi Bennour": 419.43170000000003,
+        "M'diq": 730.6774
+    },
+    "M'diq": {
+        "Al Hoceima": null,
+        "Beni Ensar I Ait Nsar": null,
+        "M'diq": 0,
+        "Sidi Bennour": 569.2144000000001
+    },
+    "Sidi Bennour": {
+        "Al Hoceima": null,
+        "Beni Ensar I Ait Nsar": null,
+        "M'diq": null,
+        "Sidi Bennour": 0
+    },
+    "Midelt": {
+        "Midelt": 0,
+        "Drarga": 647.1796999999999,
+        "Azrou": 121.807,
+        "Zagora": 450.855
+    },
+    "Azrou": {
+        "Midelt": null,
+        "Azrou": 0,
+        "Zagora": 572.6287,
+        "Drarga": 746.0464000000001
+    },
+    "Drarga": {
+        "Midelt": null,
+        "Azrou": null,
+        "Drarga": 0,
+        "Zagora": 459.9053
+    },
+    "Zagora": {
+        "Midelt": null,
+        "Azrou": null,
+        "Drarga": null,
+        "Zagora": 0
+    },
+    "Zaio": {
+        "Zaio": 0,
+        "Zaouiat Cheikh": 490.543,
+        "AGDAZ": 623.8808,
+        "ABAYNOU": 1203.9276
+    },
+    "Zaouiat Cheikh": {
+        "Zaio": null,
+        "Zaouiat Cheikh": 0,
+        "AGDAZ": 133.608,
+        "ABAYNOU": 672.2271999999999
+    },
+    "ABAYNOU": {
+        "Zaio": null,
+        "Zaouiat Cheikh": null,
+        "ABAYNOU": 0,
+        "AGDAZ": 716.6194
+    },
+    "AGDAZ": {
+        "Zaio": null,
+        "Zaouiat Cheikh": null,
+        "ABAYNOU": null,
+        "AGDAZ": 0
+    },
+    "AHFIR": {
+        "AHFIR": 0,
+        "AIN AOUDA": 572.688,
+        "AHMAR LAGLALCHA": 1113.6408000000001,
+        "Ain-Beni-Mathar": 548.4037
+    },
+    "AHMAR LAGLALCHA": {
+        "AHFIR": null,
+        "AHMAR LAGLALCHA": 0,
+        "AIN AOUDA": 558.3443000000001,
+        "Ain-Beni-Mathar": 562.3716
+    },
+    "AIN AOUDA": {
+        "AHFIR": null,
+        "AHMAR LAGLALCHA": null,
+        "AIN AOUDA": 0,
+        "Ain-Beni-Mathar": 44.4046
+    },
+    "Ain-Beni-Mathar": {
+        "AHFIR": null,
+        "AHMAR LAGLALCHA": null,
+        "AIN AOUDA": null,
+        "Ain-Beni-Mathar": 0
+    },
+    "AIN TAOUJDATE": {
+        "AIN TAOUJDATE": 0,
+        "AIN TEKKI": 255.8978,
+        "Ait Baha": 788.3371,
+        "AIT AMIRA": 753.673
+    },
+    "AIN TEKKI": {
+        "AIN TAOUJDATE": null,
+        "AIN TEKKI": 0,
+        "Ait Baha": 540.848,
+        "AIT AMIRA": 506.18390000000005
+    },
+    "AIT AMIRA": {
+        "AIN TAOUJDATE": null,
+        "AIN TEKKI": null,
+        "AIT AMIRA": 0,
+        "Ait Baha": 111.75280000000001
+    },
+    "Ait Baha": {
+        "AIN TAOUJDATE": null,
+        "AIN TEKKI": null,
+        "AIT AMIRA": null,
+        "Ait Baha": 0
+    },
+    "Ait Ourir": {
+        "Ait Ourir": 0,
+        "Amizmiz": 90.72739999999999,
+        "Aknoul": 724.3925,
+        "Aoulouz": 219.2405
+    },
+    "Aknoul": {
+        "Ait Ourir": null,
+        "Aknoul": 0,
+        "Amizmiz": 753.7948,
+        "Aoulouz": 1021.6845
+    },
+    "Amizmiz": {
+        "Ait Ourir": null,
+        "Aknoul": null,
+        "Amizmiz": 0,
+        "Aoulouz": 177.9009
+    },
+    "Aoulouz": {
+        "Ait Ourir": null,
+        "Aknoul": null,
+        "Amizmiz": null,
+        "Aoulouz": 0
+    },
+    "Aourir": {
+        "Aourir": 0,
+        "ASILAH": 770.3473,
+        "Erfoud": 640.4066,
+        "ASSA": 281.0532
+    },
+    "Erfoud": {
+        "Aourir": null,
+        "Erfoud": 0,
+        "ASSA": 818.2701999999999,
+        "ASILAH": 694.6029
+    },
+    "ASILAH": {
+        "Aourir": null,
+        "Erfoud": null,
+        "ASILAH": 0,
+        "ASSA": 1006.2085
+    },
+    "ASSA": {
+        "Aourir": null,
+        "Erfoud": null,
+        "ASILAH": null,
+        "ASSA": 0
+    },
+    "AZILAL": {
+        "AZILAL": 0,
+        "Bab Marzouka": 476.4798,
+        "BAB BOUDIR": 518.0941,
+        "El Beddouza": 351.279
+    },
+    "BAB BOUDIR": {
+        "AZILAL": null,
+        "BAB BOUDIR": 0,
+        "Bab Marzouka": 46.83,
+        "El Beddouza": 665.7425999999999
+    },
+    "Bab Marzouka": {
+        "AZILAL": null,
+        "BAB BOUDIR": null,
+        "Bab Marzouka": 0,
+        "El Beddouza": 623.3034
+    },
+    "El Beddouza": {
+        "AZILAL": null,
+        "BAB BOUDIR": null,
+        "Bab Marzouka": null,
+        "El Beddouza": 0
+    },
+    "Boujad": {
+        "Boujad": 0,
+        "Belfaa": 588.7247,
+        "Ben Taieb": 490.6547,
+        "Ben Ahmed": 107.76610000000001
+    },
+    "Belfaa": {
+        "Boujad": null,
+        "Belfaa": 0,
+        "Ben Taieb": 1027.1168,
+        "Ben Ahmed": 499.10159999999996
+    },
+    "Ben Ahmed": {
+        "Boujad": null,
+        "Belfaa": null,
+        "Ben Ahmed": 0,
+        "Ben Taieb": 621.5141
+    },
+    "Ben Taieb": {
+        "Boujad": null,
+        "Belfaa": null,
+        "Ben Ahmed": null,
+        "Ben Taieb": 0
+    },
+    "Biougra": {
+        "Biougra": 0,
+        "Bouarfa": 888.1306,
+        "Bir Tam Tam": 795.8534000000001,
+        "Bouizakarne": 143.8245
+    },
+    "Bir Tam Tam": {
+        "Biougra": null,
+        "Bir Tam Tam": 0,
+        "Bouarfa": 551.4641,
+        "Bouizakarne": 932.0544
+    },
+    "Bouarfa": {
+        "Biougra": null,
+        "Bir Tam Tam": null,
+        "Bouarfa": 0,
+        "Bouizakarne": 1032.5140999999999
+    },
+    "Bouizakarne": {
+        "Biougra": null,
+        "Bir Tam Tam": null,
+        "Bouarfa": null,
+        "Bouizakarne": 0
+    },
+    "Boujdour": {
+        "Boujdour": 0,
+        "Boujniba": 1325.0461,
+        "Boulemane": 1612.7361,
+        "Boulaouane": 1189.4557
+    },
+    "Boujniba": {
+        "Boujdour": null,
+        "Boujniba": 0,
+        "Boulemane": 275.04429999999996,
+        "Boulaouane": 180.851
+    },
+    "Boulaouane": {
+        "Boujdour": null,
+        "Boujniba": null,
+        "Boulaouane": 0,
+        "Boulemane": 467.7831
+    },
+    "Boulemane": {
+        "Boujdour": null,
+        "Boujniba": null,
+        "Boulaouane": null,
+        "Boulemane": 0
+    },
+    "Boumalne Dades": {
+        "Boumalne Dades": 0.0,
+        "Bouznika": 591.3611,
+        "Chefchaouen": 635.179
+    },
+    "Bouznika": {
+        "Boumalne Dades": null,
+        "Bouznika": 0,
+        "Chefchaouen": 292.57620000000003
+    },
+    "Chefchaouen": {
+        "Boumalne Dades": null,
+        "Bouznika": null,
+        "Chefchaouen": 0
+    },
+    "Chichaoua": {
+        "Chichaoua": 0,
+        "Dakhla": 1330.0385,
+        "Driouch": 822.5386,
+        "Demnate": 188.57739999999998
+    },
+    "Dakhla": {
+        "Chichaoua": null,
+        "Dakhla": 0,
+        "Driouch": 2142.7718999999997,
+        "Demnate": 1508.8106
+    },
+    "Demnate": {
+        "Chichaoua": null,
+        "Dakhla": null,
+        "Demnate": 0,
+        "Driouch": 651.2846999999999
+    },
+    "Driouch": {
+        "Chichaoua": null,
+        "Dakhla": null,
+        "Demnate": null,
+        "Driouch": 0
+    },
+    "Echemmaia": {
+        "Echemmaia": 0,
+        "El Borouj": 210.30610000000001,
+        "El Aioun Sidi Mellouk": 813.8271,
+        "El-Hajeb": 508.0795
+    },
+    "El Aioun Sidi Mellouk": {
+        "Echemmaia": null,
+        "El Aioun Sidi Mellouk": 0,
+        "El Borouj": 705.9326,
+        "El-Hajeb": 345.1125
+    },
+    "El Borouj": {
+        "Echemmaia": null,
+        "El Aioun Sidi Mellouk": null,
+        "El Borouj": 0,
+        "El-Hajeb": 398.5355
+    },
+    "El-Hajeb": {
+        "Echemmaia": null,
+        "El Aioun Sidi Mellouk": null,
+        "El Borouj": null,
+        "El-Hajeb": 0
+    },
+    "Rich": {
+        "Rich": 0,
+        "Smara": 1275.1289,
+        "Ain Cheggag": 263.2195,
+        "Ain Allah": 295.6311
+    },
+    "Smara": {
+        "Rich": null,
+        "Smara": 0,
+        "Ain Cheggag": 1298.345,
+        "Ain Allah": 1285.9388000000001
+    },
+    "Ain Allah": {
+        "Rich": null,
+        "Smara": null,
+        "Ain Allah": 0,
+        "Ain Cheggag": 22.4088
+    },
+    "Ain Cheggag": {
+        "Rich": null,
+        "Smara": null,
+        "Ain Allah": null,
+        "Ain Cheggag": 0
+    },
+    "Moulay Yaacoub": {
+        "Moulay Yaacoub": 0,
+        "Foum Zguid": 573.7631,
+        "Rhafsai": 332.5665,
+        "Figuig": 353.223
+    },
+    "Figuig": {
+        "Moulay Yaacoub": null,
+        "Figuig": 0,
+        "Foum Zguid": 737.5979,
+        "Rhafsai": 518.8293
+    },
+    "Foum Zguid": {
+        "Moulay Yaacoub": null,
+        "Figuig": null,
+        "Foum Zguid": 0,
+        "Rhafsai": 944.6254
+    },
+    "Rhafsai": {
+        "Moulay Yaacoub": null,
+        "Figuig": null,
+        "Foum Zguid": null,
+        "Rhafsai": 0
+    },
+    "Galdamane": {
+        "Galdamane": 0,
+        "Goulmima": 502.4183,
+        "Had Soualem": 456.53270000000003,
+        "Guenfouda": 246.34429999999998
+    },
+    "Goulmima": {
+        "Galdamane": null,
+        "Goulmima": 0,
+        "Had Soualem": 604.1044,
+        "Guenfouda": 560.8884
+    },
+    "Guenfouda": {
+        "Galdamane": null,
+        "Goulmima": null,
+        "Guenfouda": 0,
+        "Had Soualem": 671.1392
+    },
+    "Had Soualem": {
+        "Galdamane": null,
+        "Goulmima": null,
+        "Guenfouda": null,
+        "Had Soualem": 0
+    },
+    "Ifrane": {
+        "Ifrane": 0,
+        "Imintanoute": 625.1337,
+        "Imouzzer-Kandar": 26.4818,
+        "Imsouane": 750.7832
+    },
+    "Imsouane": {
+        "Ifrane": null,
+        "Imsouane": 0,
+        "Imintanoute": 151.2934,
+        "Imouzzer-Kandar": 767.9318000000001
+    },
+    "Imintanoute": {
+        "Ifrane": null,
+        "Imsouane": null,
+        "Imintanoute": 0,
+        "Imouzzer-Kandar": 641.9731999999999
+    },
+    "Imouzzer-Kandar": {
+        "Ifrane": null,
+        "Imsouane": null,
+        "Imintanoute": null,
+        "Imouzzer-Kandar": 0
+    },
+    "Souk Jemaa des Oulad Abbou": {
+        "Souk Jemaa des Oulad Abbou": 0,
+        "Jemaa-Shaim": 157.9579,
+        "jorf lasfar": 95.7285,
+        "Jerada": 682.1123
+    },
+    "Jemaa-Shaim": {
+        "Souk Jemaa des Oulad Abbou": null,
+        "Jemaa-Shaim": 0,
+        "jorf lasfar": 116.3929,
+        "Jerada": 821.2606
+    },
+    "Jerada": {
+        "Souk Jemaa des Oulad Abbou": null,
+        "Jemaa-Shaim": null,
+        "Jerada": 0,
+        "jorf lasfar": 741.5055
+    },
+    "jorf lasfar": {
+        "Souk Jemaa des Oulad Abbou": null,
+        "Jemaa-Shaim": null,
+        "Jerada": null,
+        "jorf lasfar": 0
+    },
+    "Kasba Tadla": {
+        "Kasba Tadla": 0,
+        "Kenitra Atlantic Free Zone": 366.6745,
+        "Kelaat M'Gouna": 338.9762,
+        "Zemamra": 358.2033
+    },
+    "Kelaat M'Gouna": {
+        "Kasba Tadla": null,
+        "Kelaat M'Gouna": 0,
+        "Kenitra Atlantic Free Zone": 679.871,
+        "Zemamra": 440.8345
+    },
+    "Kenitra Atlantic Free Zone": {
+        "Kasba Tadla": null,
+        "Kelaat M'Gouna": null,
+        "Kenitra Atlantic Free Zone": 0,
+        "Zemamra": 338.3481
+    },
+    "Zemamra": {
+        "Kasba Tadla": null,
+        "Kelaat M'Gouna": null,
+        "Kenitra Atlantic Free Zone": null,
+        "Zemamra": 0
+    },
+    "Ksar Sghir": {
+        "Ksar Sghir": 0,
+        "El Ksiba": 596.3145,
+        "Lakhssas": 955.0929,
+        "Laayoune": 1446.5656000000001
+    },
+    "El Ksiba": {
+        "Ksar Sghir": null,
+        "El Ksiba": 0,
+        "Lakhssas": 621.5754000000001,
+        "Laayoune": 1113.0481000000002
+    },
+    "Laayoune": {
+        "Ksar Sghir": null,
+        "El Ksiba": null,
+        "Laayoune": 0,
+        "Lakhssas": 513.0767999999999
+    },
+    "Lakhssas": {
+        "Ksar Sghir": null,
+        "El Ksiba": null,
+        "Laayoune": null,
+        "Lakhssas": 0
+    },
+    "Bir Jdid": {
+        "Bir Jdid": 0,
+        "El Mansouria": 90.5985,
+        "Oualidia": 152.4218,
+        "Mehdia": 192.5813
+    },
+    "Oualidia": {
+        "Bir Jdid": null,
+        "Oualidia": 0,
+        "El Mansouria": 235.096,
+        "Mehdia": 337.0788
+    },
+    "El Mansouria": {
+        "Bir Jdid": null,
+        "Oualidia": null,
+        "El Mansouria": 0,
+        "Mehdia": 108.975
+    },
+    "Mehdia": {
+        "Bir Jdid": null,
+        "Oualidia": null,
+        "El Mansouria": null,
+        "Mehdia": 0
+    },
+    "Missour": {
+        "Missour": 0,
+        "Mnabha": 685.257,
+        "M'rirt": 215.94060000000002,
+        "Al-Aroui": 280.10720000000003
+    },
+    "Mnabha": {
+        "Missour": null,
+        "Mnabha": 0,
+        "M'rirt": 741.8161,
+        "Al-Aroui": 1090.5517
+    },
+    "Al-Aroui": {
+        "Missour": null,
+        "Mnabha": null,
+        "Al-Aroui": 0,
+        "M'rirt": 391.652
+    },
+    "M'rirt": {
+        "Missour": null,
+        "Mnabha": null,
+        "Al-Aroui": null,
+        "M'rirt": 0
+    },
+    "Msoun": {
+        "Msoun": 0,
+        "Ouled Berhil": 942.4361,
+        "Oulad Said": 527.0251,
+        "Nouasseur": 455.6639
+    },
+    "Nouasseur": {
+        "Msoun": null,
+        "Nouasseur": 0,
+        "Ouled Berhil": 494.6603,
+        "Oulad Said": 79.2493
+    },
+    "Ouled Berhil": {
+        "Msoun": null,
+        "Nouasseur": null,
+        "Ouled Berhil": 0,
+        "Oulad Said": 431.43390000000005
+    },
+    "Oulad Said": {
+        "Msoun": null,
+        "Nouasseur": null,
+        "Ouled Berhil": null,
+        "Oulad Said": 0
+    },
+    "Souk el Had des Oulad-Zbair": {
+        "Souk el Had des Oulad-Zbair": 0,
+        "Dar Ould Zidouh": 442.4517,
+        "Ribate El Kheir": 88.0275,
+        "Outat El Haj": 250.0275
+    },
+    "Dar Ould Zidouh": {
+        "Souk el Had des Oulad-Zbair": null,
+        "Dar Ould Zidouh": 0,
+        "Ribate El Kheir": 414.2433,
+        "Outat El Haj": 416.9502
+    },
+    "Outat El Haj": {
+        "Souk el Had des Oulad-Zbair": null,
+        "Dar Ould Zidouh": null,
+        "Outat El Haj": 0,
+        "Ribate El Kheir": 150.7175
+    },
+    "Ribate El Kheir": {
+        "Souk el Had des Oulad-Zbair": null,
+        "Dar Ould Zidouh": null,
+        "Outat El Haj": null,
+        "Ribate El Kheir": 0
+    },
+    "Saidia": {
+        "Saidia": 0,
+        "Sidi Allal El Bahraoui": 508.55,
+        "SALE TECHNOPOLIS": 528.8524,
+        "Sidi Allal Tazi": 578.5091
+    },
+    "SALE TECHNOPOLIS": {
+        "Saidia": null,
+        "SALE TECHNOPOLIS": 0,
+        "Sidi Allal El Bahraoui": 21.606099999999998,
+        "Sidi Allal Tazi": 78.9106
+    },
+    "Sidi Allal El Bahraoui": {
+        "Saidia": null,
+        "SALE TECHNOPOLIS": null,
+        "Sidi Allal El Bahraoui": 0,
+        "Sidi Allal Tazi": 71.7166
+    },
+    "Sidi Allal Tazi": {
+        "Saidia": null,
+        "SALE TECHNOPOLIS": null,
+        "Sidi Allal El Bahraoui": null,
+        "Sidi Allal Tazi": 0
+    },
+    "Sidi Taibi": {
+        "Sidi Taibi": 0,
+        "Sidi Yahya du Rharb": 41.2666,
+        "Smimou": 526.7148000000001,
+        "Skoura": 599.3231999999999
+    },
+    "Sidi Yahya du Rharb": {
+        "Sidi Taibi": null,
+        "Sidi Yahya du Rharb": 0,
+        "Smimou": 564.9764,
+        "Skoura": 637.5848000000001
+    },
+    "Skoura": {
+        "Sidi Taibi": null,
+        "Sidi Yahya du Rharb": null,
+        "Skoura": 0,
+        "Smimou": 450.1198
+    },
+    "Smimou": {
+        "Sidi Taibi": null,
+        "Sidi Yahya du Rharb": null,
+        "Skoura": null,
+        "Smimou": 0
+    },
+    "Taddart": {
+        "Taddart": 0,
+        "Tafraoute": 1035.6643000000001,
+        "Tagant": 1060.6513,
+        "Taghazout": 935.911
+    },
+    "Tafraoute": {
+        "Taddart": null,
+        "Tafraoute": 0,
+        "Tagant": 127.6595,
+        "Taghazout": 180.7284
+    },
+    "Tagant": {
+        "Taddart": null,
+        "Tafraoute": null,
+        "Tagant": 0,
+        "Taghazout": 189.42860000000002
+    },
+    "Taghazout": {
+        "Taddart": null,
+        "Tafraoute": null,
+        "Tagant": null,
+        "Taghazout": 0
+    },
+    "Tahla": {
+        "Tahla": 0,
+        "Taliouine": 943.4075,
+        "Tamanar": 785.7713,
+        "Talmest": 669.2413
+    },
+    "Taliouine": {
+        "Tahla": null,
+        "Taliouine": 0,
+        "Tamanar": 291.816,
+        "Talmest": 376.5117
+    },
+    "Talmest": {
+        "Tahla": null,
+        "Taliouine": null,
+        "Talmest": 0,
+        "Tamanar": 123.5517
+    },
+    "Tamanar": {
+        "Tahla": null,
+        "Taliouine": null,
+        "Talmest": null,
+        "Tamanar": 0
+    },
+    "Tamri": {
+        "Tamri": 0,
+        "Taounate": 894.9949,
+        "Tamesna": 762.8339,
+        "Tarfaya": 599.6029
+    },
+    "Tamesna": {
+        "Tamri": null,
+        "Tamesna": 0,
+        "Taounate": 158.69129999999998,
+        "Tarfaya": 1229.1924
+    },
+    "Taounate": {
+        "Tamri": null,
+        "Tamesna": null,
+        "Taounate": 0,
+        "Tarfaya": 1361.3511
+    },
+    "Tarfaya": {
+        "Tamri": null,
+        "Tamesna": null,
+        "Taounate": null,
+        "Tarfaya": 0
+    },
+    "Tata": {
+        "Tata": 0,
+        "Tazenakht": 275.18,
+        "Tinejdad": 561.4182,
+        "Tinghir": 508.6706
+    },
+    "Tazenakht": {
+        "Tata": null,
+        "Tazenakht": 0,
+        "Tinejdad": 286.35020000000003,
+        "Tinghir": 233.6026
+    },
+    "Tinghir": {
+        "Tata": null,
+        "Tazenakht": null,
+        "Tinghir": 0,
+        "Tinejdad": 52.9129
+    },
+    "Tinejdad": {
+        "Tata": null,
+        "Tazenakht": null,
+        "Tinghir": null,
+        "Tinejdad": 0
+    },
+    "Tissa": {
+        "Tissa": 0
     }
 }
