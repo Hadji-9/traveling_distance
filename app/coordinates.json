@@ -31,6 +31,1455 @@
                 "lat": 31.6258257,
                 "lng": -7.9891608
             }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sale",
+            "coordinates": {
+                "lat": 34.044889,
+                "lng": -6.814017
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Meknes",
+            "coordinates": {
+                "lat": 33.897877,
+                "lng": -5.5320345
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Rabat",
+            "coordinates": {
+                "lat": 34.022405,
+                "lng": -6.834543
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Oujda",
+            "coordinates": {
+                "lat": 34.677874,
+                "lng": -1.929306
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Kenitra",
+            "coordinates": {
+                "lat": 34.26457,
+                "lng": -6.570169
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Agadir",
+            "coordinates": {
+                "lat": 30.4211144,
+                "lng": -9.5830626
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tetouan",
+            "coordinates": {
+                "lat": 35.570175,
+                "lng": -5.3742776
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Temara",
+            "coordinates": {
+                "lat": 33.917166,
+                "lng": -6.923804
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Safi",
+            "coordinates": {
+                "lat": 32.2650776,
+                "lng": -9.230554
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Mohammedia",
+            "coordinates": {
+                "lat": 33.6958383,
+                "lng": -7.3893292
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Khouribga",
+            "coordinates": {
+                "lat": 32.885508,
+                "lng": -6.909238
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Jadida",
+            "coordinates": {
+                "lat": 33.2336952,
+                "lng": -8.5004248
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Beni Mellal",
+            "coordinates": {
+                "lat": 32.334193,
+                "lng": -6.353335
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ait Melloul",
+            "coordinates": {
+                "lat": 30.3387947,
+                "lng": -9.5044701
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Nador",
+            "coordinates": {
+                "lat": 35.0517394,
+                "lng": -2.8246509
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Dar Bouazza",
+            "coordinates": {
+                "lat": 33.5215831,
+                "lng": -7.8164369
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taza",
+            "coordinates": {
+                "lat": 34.230155,
+                "lng": -4.010104
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Settat",
+            "coordinates": {
+                "lat": 33.002397,
+                "lng": -7.619867
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Berrchid",
+            "coordinates": {
+                "lat": 34.0042686,
+                "lng": -6.8336411
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Khemisset",
+            "coordinates": {
+                "lat": 33.830287,
+                "lng": -6.072605
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Inezgane",
+            "coordinates": {
+                "lat": 30.3562929,
+                "lng": -9.5459347
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ksar El-Kebir",
+            "coordinates": {
+                "lat": 34.999218,
+                "lng": -5.898724
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Larache",
+            "coordinates": {
+                "lat": 35.1952327,
+                "lng": -6.152913
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Guelmim",
+            "coordinates": {
+                "lat": 28.9863852,
+                "lng": -10.0574351
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Khenifra",
+            "coordinates": {
+                "lat": 32.9357718,
+                "lng": -5.6696504
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Berkane",
+            "coordinates": {
+                "lat": 34.9266755,
+                "lng": -2.3294087
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taourirt",
+            "coordinates": {
+                "lat": 34.413438,
+                "lng": -2.893825
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bouskoura",
+            "coordinates": {
+                "lat": 33.456443,
+                "lng": -7.650666
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Fkih Ben Salah",
+            "coordinates": {
+                "lat": 32.504541,
+                "lng": -6.6860405
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Dcheira El Jihadia",
+            "coordinates": {
+                "lat": 30.375281,
+                "lng": -9.528495
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Oued Zem",
+            "coordinates": {
+                "lat": 32.862504,
+                "lng": -6.571054
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Kelaa des Sraghna",
+            "coordinates": {
+                "lat": 32.05433,
+                "lng": -7.40676
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Slimane",
+            "coordinates": {
+                "lat": 34.259878,
+                "lng": -5.927253
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Errachidia",
+            "coordinates": {
+                "lat": 31.929089,
+                "lng": -4.4340807
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Guercif",
+            "coordinates": {
+                "lat": 34.225576,
+                "lng": -3.352345
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Oulad Teima",
+            "coordinates": {
+                "lat": 30.3954707,
+                "lng": -9.2105335
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ben Guerir",
+            "coordinates": {
+                "lat": 32.2397756,
+                "lng": -7.9478656
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tiflet",
+            "coordinates": {
+                "lat": 33.894009,
+                "lng": -6.31673
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Leqliaa",
+            "coordinates": {
+                "lat": 32.0,
+                "lng": -6.0
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taroudant",
+            "coordinates": {
+                "lat": 30.470651,
+                "lng": -8.877922
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sefrou",
+            "coordinates": {
+                "lat": 33.824898,
+                "lng": -4.833336
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Essaouira",
+            "coordinates": {
+                "lat": 31.5118281,
+                "lng": -9.7620903
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Fnideq",
+            "coordinates": {
+                "lat": 35.8392089,
+                "lng": -5.3614246
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Kacem",
+            "coordinates": {
+                "lat": 34.226412,
+                "lng": -5.711434
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tiznit",
+            "coordinates": {
+                "lat": 29.698624,
+                "lng": -9.7312815
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tan-Tan",
+            "coordinates": {
+                "lat": 28.437553,
+                "lng": -11.098664
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ouarzazate",
+            "coordinates": {
+                "lat": 30.920193,
+                "lng": -6.910923
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Souk Elarbaa Du Gharb",
+            "coordinates": {
+                "lat": 34.5,
+                "lng": -6.08
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Youssoufia",
+            "coordinates": {
+                "lat": 32.245801,
+                "lng": -8.532439
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Lahraouine",
+            "coordinates": {
+                "lat": 33.5488199,
+                "lng": -7.5718105
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Martil",
+            "coordinates": {
+                "lat": 35.617441,
+                "lng": -5.274154
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ain-Harrouda",
+            "coordinates": {
+                "lat": 33.6353722,
+                "lng": -7.4513985
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Souk Sebt",
+            "coordinates": {
+                "lat": 33.8649479,
+                "lng": -6.9270855
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Skhirat",
+            "coordinates": {
+                "lat": 33.850672,
+                "lng": -7.028026
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ouazzane",
+            "coordinates": {
+                "lat": 34.796757,
+                "lng": -5.578493
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Benslimane",
+            "coordinates": {
+                "lat": 33.6168709,
+                "lng": -7.123036
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Al Hoceima",
+            "coordinates": {
+                "lat": 35.245114,
+                "lng": -3.930186
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Beni Ensar I Ait Nsar",
+            "coordinates": {
+                "lat": 32.0,
+                "lng": -6.0
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "M'diq",
+            "coordinates": {
+                "lat": 35.6833598,
+                "lng": -5.3232161
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Bennour",
+            "coordinates": {
+                "lat": 32.6507792,
+                "lng": -8.4242087
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Midelt",
+            "coordinates": {
+                "lat": 32.680347,
+                "lng": -4.739897
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Azrou",
+            "coordinates": {
+                "lat": 33.436117,
+                "lng": -5.221913
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Drarga",
+            "coordinates": {
+                "lat": 30.3820295,
+                "lng": -9.4764214
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Zagora",
+            "coordinates": {
+                "lat": 30.328035,
+                "lng": -5.837139
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Zaio",
+            "coordinates": {
+                "lat": 34.941906,
+                "lng": -2.734164
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Zaouiat Cheikh",
+            "coordinates": {
+                "lat": 32.6441708,
+                "lng": -5.916589
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "ABAYNOU",
+            "coordinates": {
+                "lat": 29.0826925,
+                "lng": -9.9470484
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AGDAZ",
+            "coordinates": {
+                "lat": 32.0,
+                "lng": -6.0
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AHFIR",
+            "coordinates": {
+                "lat": 34.955281,
+                "lng": -2.100793
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AHMAR LAGLALCHA",
+            "coordinates": {
+                "lat": 30.452901,
+                "lng": -8.982032
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AIN AOUDA",
+            "coordinates": {
+                "lat": 33.7999673,
+                "lng": -6.7885408
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ain-Beni-Mathar",
+            "coordinates": {
+                "lat": 34.0591238,
+                "lng": -6.7836982
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AIN TAOUJDATE",
+            "coordinates": {
+                "lat": 33.940302,
+                "lng": -5.208052
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AIN TEKKI",
+            "coordinates": {
+                "lat": 33.6613893,
+                "lng": -7.3503061
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AIT AMIRA",
+            "coordinates": {
+                "lat": 30.1768183,
+                "lng": -9.4891392
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ait Baha",
+            "coordinates": {
+                "lat": 30.2717198,
+                "lng": -8.8214872
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ait Ourir",
+            "coordinates": {
+                "lat": 31.563898,
+                "lng": -7.662276
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Aknoul",
+            "coordinates": {
+                "lat": 34.65602,
+                "lng": -3.865259
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Amizmiz",
+            "coordinates": {
+                "lat": 31.2171012,
+                "lng": -8.2332754
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Aoulouz",
+            "coordinates": {
+                "lat": 30.673307,
+                "lng": -8.180695
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Aourir",
+            "coordinates": {
+                "lat": 30.498085,
+                "lng": -9.671097
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Erfoud",
+            "coordinates": {
+                "lat": 31.4324061,
+                "lng": -4.2342572
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "ASILAH",
+            "coordinates": {
+                "lat": 35.461928,
+                "lng": -6.036545
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "ASSA",
+            "coordinates": {
+                "lat": 28.611352,
+                "lng": -9.436696
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "AZILAL",
+            "coordinates": {
+                "lat": 31.8702262,
+                "lng": -6.4322479
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "BAB BOUDIR",
+            "coordinates": {
+                "lat": 34.0698564,
+                "lng": -4.1203958
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bab Marzouka",
+            "coordinates": {
+                "lat": 34.2105267,
+                "lng": -4.1459724
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Beddouza",
+            "coordinates": {
+                "lat": 32.5379238,
+                "lng": -9.2221284
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boujad",
+            "coordinates": {
+                "lat": 32.769785,
+                "lng": -6.394983
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Belfaa",
+            "coordinates": {
+                "lat": 30.0484384,
+                "lng": -9.5641729
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ben Ahmed",
+            "coordinates": {
+                "lat": 33.0680694,
+                "lng": -7.23244
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ben Taieb",
+            "coordinates": {
+                "lat": 35.045437,
+                "lng": -3.454995
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Biougra",
+            "coordinates": {
+                "lat": 30.215517,
+                "lng": -9.368543
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bir Tam Tam",
+            "coordinates": {
+                "lat": 33.9789487,
+                "lng": -4.6459933
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bouarfa",
+            "coordinates": {
+                "lat": 32.532903,
+                "lng": -1.963231
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bouizakarne",
+            "coordinates": {
+                "lat": 29.177425,
+                "lng": -9.711408
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boujdour",
+            "coordinates": {
+                "lat": 26.1263378,
+                "lng": -14.4836537
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boujniba",
+            "coordinates": {
+                "lat": 32.898004,
+                "lng": -6.776919
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boulaouane",
+            "coordinates": {
+                "lat": 32.863798,
+                "lng": -8.060124
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boulemane",
+            "coordinates": {
+                "lat": 33.3637958,
+                "lng": -4.729575
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boumalne Dades",
+            "coordinates": {
+                "lat": 31.372661,
+                "lng": -5.986644
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Boumalne Dades",
+            "coordinates": {
+                "lat": 31.372661,
+                "lng": -5.986644
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bouznika",
+            "coordinates": {
+                "lat": 33.781005,
+                "lng": -7.1610294
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Chefchaouen",
+            "coordinates": {
+                "lat": 35.1700832,
+                "lng": -5.2766583
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Chichaoua",
+            "coordinates": {
+                "lat": 31.5469033,
+                "lng": -8.7595462
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Dakhla",
+            "coordinates": {
+                "lat": 23.6940663,
+                "lng": -15.9431274
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Demnate",
+            "coordinates": {
+                "lat": 31.732224,
+                "lng": -7.002676
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Driouch",
+            "coordinates": {
+                "lat": 34.97694,
+                "lng": -3.391005
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Echemmaia",
+            "coordinates": {
+                "lat": 32.0698856,
+                "lng": -8.6506601
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Aioun Sidi Mellouk",
+            "coordinates": {
+                "lat": 34.578344,
+                "lng": -2.502961
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Borouj",
+            "coordinates": {
+                "lat": 32.504976,
+                "lng": -7.192731
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El-Hajeb",
+            "coordinates": {
+                "lat": 33.6987515,
+                "lng": -5.4928593
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Rich",
+            "coordinates": {
+                "lat": 32.25677,
+                "lng": -4.498189
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Smara",
+            "coordinates": {
+                "lat": 26.7435827,
+                "lng": -11.6645492
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ain Allah",
+            "coordinates": {
+                "lat": 34.0412866,
+                "lng": -5.1411357
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ain Cheggag",
+            "coordinates": {
+                "lat": 33.887389,
+                "lng": -5.036853
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Moulay Yaacoub",
+            "coordinates": {
+                "lat": 32.6060421,
+                "lng": -5.5872793
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Figuig",
+            "coordinates": {
+                "lat": 32.705884,
+                "lng": -2.6287658
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Foum Zguid",
+            "coordinates": {
+                "lat": 30.085933,
+                "lng": -6.874903
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Rhafsai",
+            "coordinates": {
+                "lat": 34.6266439,
+                "lng": -4.9098068
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Galdamane",
+            "coordinates": {
+                "lat": 34.1334235,
+                "lng": -3.9488882
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Goulmima",
+            "coordinates": {
+                "lat": 31.692627,
+                "lng": -4.953262
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Guenfouda",
+            "coordinates": {
+                "lat": 34.484709,
+                "lng": -2.045819
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Had Soualem",
+            "coordinates": {
+                "lat": 33.422256,
+                "lng": -7.8534097
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ifrane",
+            "coordinates": {
+                "lat": 33.527605,
+                "lng": -5.107408
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Imsouane",
+            "coordinates": {
+                "lat": 30.841899,
+                "lng": -9.819964
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Imintanoute",
+            "coordinates": {
+                "lat": 31.173503,
+                "lng": -8.8518
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Imouzzer-Kandar",
+            "coordinates": {
+                "lat": 33.733423,
+                "lng": -5.010495
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Souk Jemaa des Oulad Abbou",
+            "coordinates": {
+                "lat": 33.11392,
+                "lng": -7.93281
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Jemaa-Shaim",
+            "coordinates": {
+                "lat": 32.3489166,
+                "lng": -8.8428545
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Jerada",
+            "coordinates": {
+                "lat": 34.310531,
+                "lng": -2.159979
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "jorf lasfar",
+            "coordinates": {
+                "lat": 33.1182168,
+                "lng": -8.6267008
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Kasba Tadla",
+            "coordinates": {
+                "lat": 32.602894,
+                "lng": -6.269706
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Kelaat M'Gouna",
+            "coordinates": {
+                "lat": 31.2201796,
+                "lng": -6.1406983
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Kenitra Atlantic Free Zone",
+            "coordinates": {
+                "lat": 34.3077475,
+                "lng": -6.3692248
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Zemamra",
+            "coordinates": {
+                "lat": 32.6161958,
+                "lng": -8.7043575
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ksar Sghir",
+            "coordinates": {
+                "lat": 35.7995741,
+                "lng": -5.6247189
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Ksiba",
+            "coordinates": {
+                "lat": 32.568902,
+                "lng": -6.034093
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Laayoune",
+            "coordinates": {
+                "lat": 27.154512,
+                "lng": -13.1953921
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Lakhssas",
+            "coordinates": {
+                "lat": 29.3108749,
+                "lng": -9.607954
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Bir Jdid",
+            "coordinates": {
+                "lat": 33.37377,
+                "lng": -7.998016
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Oualidia",
+            "coordinates": {
+                "lat": 32.7097639,
+                "lng": -8.9626018
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "El Mansouria",
+            "coordinates": {
+                "lat": 33.740396,
+                "lng": -7.292191
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Mehdia",
+            "coordinates": {
+                "lat": 34.2564899,
+                "lng": -6.6720598
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Missour",
+            "coordinates": {
+                "lat": 33.047057,
+                "lng": -3.992578
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Mnabha",
+            "coordinates": {
+                "lat": 30.6157474,
+                "lng": -8.4482617
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Al-Aroui",
+            "coordinates": {
+                "lat": 35.010185,
+                "lng": -3.012265
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "M'rirt",
+            "coordinates": {
+                "lat": 33.163826,
+                "lng": -5.565428
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Msoun",
+            "coordinates": {
+                "lat": 34.2729043,
+                "lng": -3.7305289
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Nouasseur",
+            "coordinates": {
+                "lat": 33.3692835,
+                "lng": -7.5870086
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ouled Berhil",
+            "coordinates": {
+                "lat": 30.5576112,
+                "lng": -8.6138495
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Oulad Said",
+            "coordinates": {
+                "lat": 32.9675641,
+                "lng": -7.813319
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Souk el Had des Oulad-Zbair",
+            "coordinates": {
+                "lat": 34.29571,
+                "lng": -4.28847
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Dar Ould Zidouh",
+            "coordinates": {
+                "lat": 32.308189,
+                "lng": -6.9065404
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Outat El Haj",
+            "coordinates": {
+                "lat": 33.337366,
+                "lng": -3.696438
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Ribate El Kheir",
+            "coordinates": {
+                "lat": 33.8154579,
+                "lng": -4.4068912
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Saidia",
+            "coordinates": {
+                "lat": 35.0822208,
+                "lng": -2.2245756
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "SALE TECHNOPOLIS",
+            "coordinates": {
+                "lat": 33.9906417,
+                "lng": -6.7194086
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Allal El Bahraoui",
+            "coordinates": {
+                "lat": 34.010715,
+                "lng": -6.532357
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Allal Tazi",
+            "coordinates": {
+                "lat": 34.52185,
+                "lng": -6.323673
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Taibi",
+            "coordinates": {
+                "lat": 34.1916611,
+                "lng": -6.6844815
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Sidi Yahya du Rharb",
+            "coordinates": {
+                "lat": 34.3039863,
+                "lng": -6.3063481
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Skoura",
+            "coordinates": {
+                "lat": 31.060412,
+                "lng": -6.55755
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Smimou",
+            "coordinates": {
+                "lat": 31.2097051,
+                "lng": -9.7036625
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taddart",
+            "coordinates": {
+                "lat": 34.21615,
+                "lng": -3.583368
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tafraoute",
+            "coordinates": {
+                "lat": 29.720472,
+                "lng": -8.9744529
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tagant",
+            "coordinates": {
+                "lat": 29.1283828,
+                "lng": -9.7799066
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taghazout",
+            "coordinates": {
+                "lat": 30.544722,
+                "lng": -9.709128
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tahla",
+            "coordinates": {
+                "lat": 34.050634,
+                "lng": -4.4224
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taliouine",
+            "coordinates": {
+                "lat": 30.5314629,
+                "lng": -7.9215207
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Talmest",
+            "coordinates": {
+                "lat": 31.818539,
+                "lng": -9.3436761
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tamanar",
+            "coordinates": {
+                "lat": 31.003117,
+                "lng": -9.678242
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tamri",
+            "coordinates": {
+                "lat": 30.6966311,
+                "lng": -9.8250377
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tamesna",
+            "coordinates": {
+                "lat": 33.9613029,
+                "lng": -5.5736516
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Taounate",
+            "coordinates": {
+                "lat": 34.538476,
+                "lng": -4.635994
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tarfaya",
+            "coordinates": {
+                "lat": 27.9401204,
+                "lng": -12.9249934
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tata",
+            "coordinates": {
+                "lat": 29.746392,
+                "lng": -7.9696051
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tazenakht",
+            "coordinates": {
+                "lat": 30.5772847,
+                "lng": -7.204837
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tinghir",
+            "coordinates": {
+                "lat": 31.52133,
+                "lng": -5.531164
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tinejdad",
+            "coordinates": {
+                "lat": 31.510201,
+                "lng": -5.03382
+            }
+        },
+        {
+            "country": "Morocco",
+            "city": "Tissa",
+            "coordinates": {
+                "lat": 34.28657,
+                "lng": -4.665632
+            }
         }
-    ]
+    ],
+    "duration": ""
 }
